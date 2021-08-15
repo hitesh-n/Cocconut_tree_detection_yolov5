@@ -1,0 +1,9 @@
+train: ../OID/Dataset/train/Sea_turtle  # 1782 images
+val: ../OID/Dataset/train/Sea_turtle  # 118 images
+test:   # 100 images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Sea turtle']
